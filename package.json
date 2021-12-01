@@ -20,5 +20,8 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "inquirer": "^8.2.0"
+  },
+  "bin": {
+    "saber-npm-resume": "./index.js"
   }
 }

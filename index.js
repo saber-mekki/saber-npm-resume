@@ -5,7 +5,6 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 import { readFile } from "fs/promises";
 
-console.log(chalk.blue("Hello world!"));
 const resume = JSON.parse(
   await readFile(new URL("./resume.json", import.meta.url))
 );
