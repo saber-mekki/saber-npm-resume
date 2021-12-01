@@ -1,13 +1,13 @@
 {
   "Education 📚": [
-    "Krakow Akademy of A.F.Modrzewskiego, Poland, Economics faculty 😅  2013 - 2017",
-    "School specializing in English language, Ukraine, 2002 - 2013 ",
-    "Tons of online courses about programming, 2017 - Infinite"
+    "Faculty of Sciences of Tunis, Engineering cycle in embedded systems electronics 😅 September 2016 - April 2019",
+    "Faculty of Sciences of Monastir, Preparatory cycle: physics-chemistry, September 2013 - April 2016 ",
+    "Menchia High School, Bachelor of Science in Computer Science, September 2012 - April 2013"
   ],
-  "Past Experience 🧪": [
-    "Frontend Engineer at NetGuru - https://www.netguru.com/ - 2019 - Ongoing, 1yr",
-    "Frontend Developer at CallPage - https://www.callpage.pl/, 2018 - 2019, 1yr2m",
-    "Freelancer, worldwide, 2017, 6m"
+  "Experience 🧪": [
+    "Web Developer at AURES Technologies - oct 2020 –> Present",
+    "Frontend Developer at FivePoints The Talent Pool - May 2019 –> Jun 2020",
+    "Freelancer, worldwide, 2019 –> Present"
   ],
   "Tech Stack 💻": [
     "JavaScript (ES5, ES6, ES7...)",
@@ -24,24 +24,16 @@
     "Figma, Sketch, Zeplin",
     "Git, Terminal"
   ],
-  "Achievements ✌": [
-    "Articles about the programming - https://medium.com/@maks.akymenko",
-    "Coding tutorials on the CSS-Tricks - https://css-tricks.com/author/maksakymenko/",
-    "Mentor at the Katowice Public Hackathon - https://www.hackathon.com/event/hackathon-spoeczny--1-72766758333",
-    "5 kyu at CodeWars (algorithms) - https://www.codewars.com/users/maximakymenko",
-    "Part of the frontend presales team at NetGuru",
-    "25+ courses on frontend masters"
-  ],
   "Projects 🛠": [
-    "Gatsby Blog - http://frontender.cc/",
-    "React Movie premieres counter - https://days-till.maksakymenko.now.sh/",
-    "Gatsby Photography Portfolio - https://github.com/maximakymenko/elizabethseaside-portfolio",
+    "Creation of online sales sites (Frontend & Backend) - http://kathya.tn/",
+    "my Portfolio - https://saber-mekki.github.io/portfolio/",
     "A lot more, but NDA :)"
   ],
   "Contact 🤙": [
-    "https://twitter.com/maks_akymenko",
-    "https://www.linkedin.com/in/maksakymenko/",
-    "https://github.com/maximakymenko",
-    "maks.akymenko@gmail.com"
+    "https://www.facebook.com/saber.mekki/",
+    "https://www.linkedin.com/in/mekki-saber/",
+    "https://github.com/saber-mekki",
+    "saber.mekki6@gmail.com",
+    "+21692330732"
   ]
 }
