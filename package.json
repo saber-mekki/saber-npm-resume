@@ -1,0 +1,24 @@
+{
+  "name": "saber-npm-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saber-mekki/saber-npm-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saber-mekki/saber-npm-resume/issues"
+  },
+  "homepage": "https://github.com/saber-mekki/saber-npm-resume#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
